@@ -1,5 +1,5 @@
 # Brutepy
-# Bruteforce Script
+Bruteforce Script
 This is a simple bruteforce script that tries to log in to a website using a list of words as both the username and password. The script uses the requests library to send HTTP requests to the server and checks the response status code to determine if the login was successful.
 
 Usage
